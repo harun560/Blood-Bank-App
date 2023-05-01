@@ -1,3 +1,17 @@
 .row {
-background-color: rgba(var(--bs-success-rgb)
+background-color: lightblue;
+  align-items: flex-start;
+}
+
+.mainn {
+  overflow: auto;
+}
+#active {
+  float: left;
+  width: 50%;
+}
+
+#Registery {
+   float: right;
+  width: 50%;
 }

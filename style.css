@@ -10,7 +10,7 @@ justify-content: space-between;
 }
 #left {
   flex: 0.33;
-  min-height: 250px;
+  min-height: 300px;
 }
 
 #middle {

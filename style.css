@@ -4,14 +4,19 @@ background-color: lightblue;
 }
 
 .mainn {
-  overflow: auto;
+display: flex;
+justify-content: space-between;
+  margin-top:10px;
 }
-#active {
-  float: left;
-  width: 50%;
+#left {
+  flex: 0.33;
+  min-height: 250px;
 }
 
-#Registery {
-   float: right;
-  width: 50%;
+#middle {
+  flex: 0.33;
 }
+#right {
+  flex:0.33;
+}
+

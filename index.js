@@ -8,5 +8,5 @@ cards.forEach(card => {
 
 
 function har() {
-  document.getElementById(green).textcontent = "check this"
+  document.getElementById("green").textcontent = "check this"
 }

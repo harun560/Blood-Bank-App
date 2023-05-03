@@ -5,3 +5,8 @@ cards.forEach(card => {
     card.classList.toggle('maximized');
   });
 });
+
+
+function har() {
+  document.getElementById(green).textcontent = "check this"
+}

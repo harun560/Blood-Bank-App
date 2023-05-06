@@ -1,3 +1,7 @@
+a {
+  text-decoration: none;
+}
+
 .row {
 background-color: lightblue;
   align-items: flex-start;

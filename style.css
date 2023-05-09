@@ -34,3 +34,14 @@ position: fixed;
   width:500px
   height: 500px
   z-index: 9999;
+
+
+
+tr {
+  background-color:whitesmoke;
+   border:2px solid blue;
+  
+}
+table {
+  background-color:yellow;
+}

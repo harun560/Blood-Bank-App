@@ -17,8 +17,9 @@ var data = [
 
 // get a reference to the table and table body
 var table = document.getElementById('myTable');
+if (table != null) {
 var tbody = table.getElementsByTagName('tbody')[0];
-
+}
 // loop through the data and create a row for each item
 for (var i = 0; i < data.length; i++) {
   // create a new row
